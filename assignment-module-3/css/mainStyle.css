@@ -1,0 +1,57 @@
+header {
+
+    color: black;
+    background-color: grey;
+    border-bottom: 2px solid black;
+
+}
+
+#listIcon {
+
+    height: 30px;
+    width: auto;
+
+}
+
+h2 {
+
+    margin-top: 20px;
+
+}
+
+section {
+
+    margin-top: 50px;
+    background-color: grey;
+    color: black;
+    text-align: center;
+
+}
+
+.navbar {
+
+    background-color: grey !important;
+
+}
+
+.container-fluid {
+
+    background-color: grey;
+
+}
+
+.navbar-toggler {
+
+    background-color: grey;
+
+}
+
+.nav-link {
+
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px solid black;
+    font-weight: 600;
+    background-color: lightgray;
+
+}
